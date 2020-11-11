@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://maxiksx:87654321@cluster0.pgs8q.mongodb.net/RenameLater?retryWrites=true&w=majority",
+    "secretKey": "megaPrivateKeyOfMaximaTishkova",
+    "baseURL":"http://localhost:5000"
+}
